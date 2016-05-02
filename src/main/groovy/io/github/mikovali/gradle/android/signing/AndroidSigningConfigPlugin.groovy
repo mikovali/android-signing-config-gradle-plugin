@@ -5,6 +5,7 @@ import org.gradle.api.Project
 
 class AndroidSigningConfigPlugin implements Plugin<Project> {
 
+    @Override
     void apply(Project project) {
     }
 }
